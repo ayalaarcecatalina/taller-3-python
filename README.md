@@ -1,0 +1,2 @@
+# taller-3-python
+en este repositorio se llevara a cabo el taller 3 de python
