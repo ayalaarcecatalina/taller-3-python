@@ -1,0 +1,14 @@
+[2026-10-23 19:36:21] Inicio del programa de casino.
+[2026-10-23 19:37:03] El jugador miriam se registra.
+[2026-10-23 19:38:48] Cierre del programa de casino.
+[2026-10-23 19:40:01] Inicio del programa de casino.
+[2026-10-23 19:40:27] El jugador fede se registra.
+[2026-10-23 19:40:54] Cierre del programa de casino.
+[2026-10-23 19:45:03] Inicio del programa de casino.
+[2026-10-23 19:45:30] El jugador cata se registra.
+[2026-10-23 19:46:00] El jugador miriam inicia sesion.
+[2026-10-23 19:46:27] miriam jugo Tragamonedas: apuesta=20, resultado=PERDIDA: 🍋 🔔 🍒, ganancia_neta=-20, saldo=480.
+[2026-10-23 19:47:21] miriam jugo Ruleta: apuesta=20, resultado=PERDIDA: salio 4 (negro); seleccion apostada: 20, ganancia_neta=-20, saldo=460.
+[2026-10-23 19:47:36] miriam deposito 500 fichas.
+[2026-10-23 19:48:00] El jugador uri se registra.
+[2026-10-23 19:48:03] Cierre del programa de casino.
