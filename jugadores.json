@@ -1,0 +1,22 @@
+[
+    {
+        "apodo": "miriam",
+        "saldo_inicial": 960,
+        "vip": true
+    },
+    {
+        "apodo": "fede",
+        "saldo_inicial": 1000,
+        "vip": false
+    },
+    {
+        "apodo": "cata",
+        "saldo_inicial": 1000,
+        "vip": true
+    },
+    {
+        "apodo": "uri",
+        "saldo_inicial": 1000,
+        "vip": false
+    }
+]
